@@ -1,6 +1,6 @@
 {
   "name": "@cermati/iamx-aliyun-connector",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "Aliyun Connector for IAMX",
   "main": "lib/index.js",
   "dependencies": {

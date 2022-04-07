@@ -1,15 +1,15 @@
 {
   "name": "@cermati/iamx-aliyun-connector",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Aliyun Connector for IAMX",
   "main": "lib/index.js",
   "dependencies": {
-    "bluebird": "3.7.2",
-    "@alicloud/pop-core": "1.7.9"
+    "@alicloud/pop-core": "1.7.9",
+    "bluebird": "3.7.2"
   },
   "devDependencies": {
-    "mocha": "7.0.1",
-    "chai": "4.2.0"
+    "chai": "4.2.0",
+    "mocha": "7.0.1"
   },
   "scripts": {
     "test": "mocha"
